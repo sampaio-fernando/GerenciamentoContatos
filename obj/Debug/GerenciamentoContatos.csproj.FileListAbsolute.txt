@@ -1,0 +1,14 @@
+C:\Users\sampa\OneDrive\Documentos\ALP2\GerenciamentoContatos\bin\Debug\GerenciamentoContatos.exe.config
+C:\Users\sampa\OneDrive\Documentos\ALP2\GerenciamentoContatos\bin\Debug\GerenciamentoContatos.exe
+C:\Users\sampa\OneDrive\Documentos\ALP2\GerenciamentoContatos\bin\Debug\GerenciamentoContatos.pdb
+C:\Users\sampa\OneDrive\Documentos\ALP2\GerenciamentoContatos\obj\Debug\GerenciamentoContatos.csproj.AssemblyReference.cache
+C:\Users\sampa\OneDrive\Documentos\ALP2\GerenciamentoContatos\obj\Debug\GerenciamentoContatos.csproj.CoreCompileInputs.cache
+C:\Users\sampa\OneDrive\Documentos\ALP2\GerenciamentoContatos\obj\Debug\GerenciamentoContatos.exe
+C:\Users\sampa\OneDrive\Documentos\ALP2\GerenciamentoContatos\obj\Debug\GerenciamentoContatos.pdb
+C:\Users\sampa\Documents\ALP2\GerenciamentoContatos\bin\Debug\GerenciamentoContatos.exe.config
+C:\Users\sampa\Documents\ALP2\GerenciamentoContatos\bin\Debug\GerenciamentoContatos.exe
+C:\Users\sampa\Documents\ALP2\GerenciamentoContatos\bin\Debug\GerenciamentoContatos.pdb
+C:\Users\sampa\Documents\ALP2\GerenciamentoContatos\obj\Debug\GerenciamentoContatos.csproj.AssemblyReference.cache
+C:\Users\sampa\Documents\ALP2\GerenciamentoContatos\obj\Debug\GerenciamentoContatos.csproj.CoreCompileInputs.cache
+C:\Users\sampa\Documents\ALP2\GerenciamentoContatos\obj\Debug\GerenciamentoContatos.exe
+C:\Users\sampa\Documents\ALP2\GerenciamentoContatos\obj\Debug\GerenciamentoContatos.pdb
