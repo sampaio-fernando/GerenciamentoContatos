@@ -54,7 +54,7 @@ namespace GerenciamentoContatos
 
             List <(string nome, string telefone)> consultNomes = contatos.Where(n => n.nome.Contains(nome)).ToList();
 
-            if (consultNomes.Any())
+            if (consultNomes.Any()) //verificar se a lista está vazia
             {
 
                 for (int i = 0; i < consultNomes.Count; i++)
